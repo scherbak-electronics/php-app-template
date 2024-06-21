@@ -1,0 +1,10 @@
+{
+    "name": "scherbak-electronics/php-app-template",
+    "description": "A super minimalistic PHP application template with ready-to-use Composer autoloading",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
