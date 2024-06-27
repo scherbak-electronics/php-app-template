@@ -1,7 +1,13 @@
 {
     "name": "scherbak-electronics/php-app-template",
-    "description": "A super minimalistic PHP application template with ready-to-use Composer autoloading",
+    "description": "A super minimalistic PHP application template with ready-to-use Composer autoloading.",
     "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Scherbak Electronics"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "App\\": "src/"
